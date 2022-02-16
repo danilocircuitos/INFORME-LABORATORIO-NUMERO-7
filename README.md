@@ -66,6 +66,16 @@ a. Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia en
 
 Capacitor
 
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+2.- Construya el circuito mostrado en la Figura 2
+
+![image](https://user-images.githubusercontent.com/93210648/154366528-a2cf0efc-4949-4c55-8a83-d314027b72ea.png)
+
+Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
+
 • Frecuencia 0 Hz
 
 Corriente
@@ -303,11 +313,11 @@ El voltaje y corriente dentro de los circuitos variaría en cada bobina o capaci
 
 Un valor eficaz de una corriente o un voltaje en corriente alterna es el valor de una corriente o un voltaje en corriente continua que puede producir la misma potencia que dicho valor de voltaje o corriente en alterna.
 
-Video :
+4. Video :
 
 
 
-Conclusiones :
+5. Conclusiones :
 
 • Una bobina ideal en corriente continua se comporta como un cortocircuito, ya que, al ser la corriente constante, no habría autoinducción. En corriente AC ofrece una resistencia al paso de la corriente eléctrica que recibe el nombre de reactancia inductiva
 
@@ -315,5 +325,5 @@ Conclusiones :
 
 • Los resultados obtenidos de manera analítica en comparación con el simulador tienen una pequeña variación, debido a la utilización de los decimales ya que el simulador implementa diferentes algoritmos para el cálculo donde varían muy poco los decimales.
 
-Bibliografia :
+6. Bibliografia :
 F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
