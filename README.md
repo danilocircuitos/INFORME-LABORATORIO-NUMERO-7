@@ -313,11 +313,11 @@ El voltaje y corriente dentro de los circuitos variaría en cada bobina o capaci
 
 Un valor eficaz de una corriente o un voltaje en corriente alterna es el valor de una corriente o un voltaje en corriente continua que puede producir la misma potencia que dicho valor de voltaje o corriente en alterna.
 
-4. Video :
+5. Video :
 
 
 
-5. Conclusiones :
+6. Conclusiones :
 
 • Una bobina ideal en corriente continua se comporta como un cortocircuito, ya que, al ser la corriente constante, no habría autoinducción. En corriente AC ofrece una resistencia al paso de la corriente eléctrica que recibe el nombre de reactancia inductiva
 
@@ -325,5 +325,5 @@ Un valor eficaz de una corriente o un voltaje en corriente alterna es el valor d
 
 • Los resultados obtenidos de manera analítica en comparación con el simulador tienen una pequeña variación, debido a la utilización de los decimales ya que el simulador implementa diferentes algoritmos para el cálculo donde varían muy poco los decimales.
 
-6. Bibliografia :
+7. Bibliografia :
 F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
