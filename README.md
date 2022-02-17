@@ -315,7 +315,7 @@ Un valor eficaz de una corriente o un voltaje en corriente alterna es el valor d
 
 5. Video :
 
-
+https://youtu.be/NQmZVVvkXO4
 
 6. Conclusiones :
 
